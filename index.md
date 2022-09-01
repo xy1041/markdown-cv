@@ -10,23 +10,22 @@ title: 杨欣的简历
 </div>
 
 
-## 当前职位
+### 当前职位
 
 高级前端开发工程师
 
-### 擅长
+### 专业技能
 
 - ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️⭐️️️️️️ React
+- ️️️️️️⭐️️️⭐️️️️️️⭐️️️️️️️️⭐️️️⭐️️️️️️ JavaScript
 - ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️ Angular
-- ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️ Typescript
+- ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️ TypeScript
 - ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️ Webpack
 - ⭐️️️️️️⭐️️️⭐️️️️️️ Rxjs
 - ⭐️️️️️️⭐️️️⭐️ Node.js
 - ⭐️️️️️️⭐️️⭐️️️️ WebRTC
 
 ### 教育经历
-
-
 `2009.09 - 2013.07`
 __西北工业大学 - 光信息科学与技术__
 
@@ -44,55 +43,90 @@ __华夏物联有限责任公司 - 前端开发工程师__
 `2014.04 - 2016.12`
 __用友软件U8部门 - 软件开发工程师__
 
-## 项目经历
+### 项目经历
 
+`抱石云SaaS系统`
 
+大规模系统，包括：
+- 一个由微前端构建（qiankun框架实现）的包含3大场景和多个模块的后台管理系统；
+- 包含H5、Web端、小程序三端的C端学习/直播/商城/支付系统；
+- 一个用以直播推流的讲师版客户端，包括直播推流、IM交流、通知发送和带货等功能。
 
+包含技术栈：
+React / Typescript / Webpack / Rxjs / WebRTC
 
-## Awards
+在其中负责：
+- 后台管理系统微前端架构的探索、选型和开发
+- 后台管理系统的UI规范，以及项目开发规范的确立和后期更新维护
+- 多个后台管理系统微项目的选型、开发和后期维护
+- Web和H5端的C端学习、直播系统的选型、开发和后期维护
+- Web和H5端的服务端渲染商城系统的选型、开发和后期维护
+- 用以直播推流端和C端直播观看端的IM SDK的开发、优化和后期维护
+- 多个用于SaaS系统的功能性SDK的开发、优化和后期维护，包括
+  - 视频上传SDK
+  - 网盘SDK
+  - 通用登录信息管理SDK
+  - 等
 
-`2012`
-President, *Royal Society*, London, UK
+`抱石云答题系统`
 
-Associate, *French Academy of Science*, Paris, France
+抱石云SaaS系统的补充系统，主要用于C端用户的答题、提交、查看答案以及直播时的问答功能
 
+包含技术栈： 
+Angular / Typescript / Rxjs
 
+在其中负责：
+- 项目选型、开发和后期维护
 
-## Publications
+`猿圈笔试系统`
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+包括笔试管理系统和笔试答题系统，其中：
+- 笔试管理系统负责试卷、场次、考生的管理和批改答卷、整理成绩的工作
+- 笔试答题系统负责答题考生的信息确认、身份认证、信息录入、考试答题的工作
 
-### Journals
+包含技术栈：
+Angular / TypeScript / Rxjs / WebSocket
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+在其中负责：
+- 项目选型、开发和后期维护
 
-`1669`
-Lectiones opticæ.
+`猿圈面试系统`
 
-etc. etc. etc.
+包括面试管理系统和在线面试系统，其中：
+- 面试管理系统负责面试场次、候选人、面试官、面试结果的管理和评估等功能
+- 在线面试系统负责面试的候选人和面试官的确认参加、设备检查、进行在线面试、面试官进行评价等功能
 
-### Patents
+包含技术栈：
+Angular / TypeScript / Rxjs / WebRTC / WebSocket
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+在其中负责：
+- 项目选型、开发和后期维护
 
+`猿圈在线OJ系统`
 
-## Occupation
+该系统为笔试和面试系统的辅助系统，使用CodeMirror实现在线编译器效果，包括如下功能：
+- 在线进行代码编写和提交编译
+- 展示OJ结果和成绩
 
-`1600`
-__Royal Mint__, London
+包含技术栈：
+React / Websocket
 
-- Warden
-- Minted coins
+在其中负责：
+- 项目选型、开发和后期维护
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`用友U8 B/S 系统`
 
+用友U8 B/S系统是U8的windows客户端系统的延伸，负责用户在网页上进行报销提交和审核，以及项目人员和财务管理的功能
+
+包含技术栈：
+JSP / JQuery / SqlServer
+
+在其中负责：
+- 项目的开发和后期维护
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sep 2022 -->
 
 
