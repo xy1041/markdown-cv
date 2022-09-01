@@ -5,7 +5,7 @@ title: 杨欣的简历
 # 杨欣
 
 <div id="webaddress">
-<a href="xy1041@aliyun.com">邮箱：xy1041@aliyun.com</a>
+<a href="mailto:xy1041@aliyun.com">邮箱：xy1041@aliyun.com</a>
 | <a href="https://xy1041.github.io/blog">博客：https://xy1041.github.io/blog</a>
 </div>
 
