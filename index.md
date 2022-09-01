@@ -52,7 +52,7 @@ __用友软件U8部门 - 软件开发工程师__
 - 一个用以直播推流的讲师版客户端，包括直播推流、IM交流、通知发送和带货等功能。
 
 包含技术栈：
-React / Typescript / Webpack / Rxjs / WebRTC
+- React / Typescript / Webpack / Rxjs / WebRTC
 
 在其中负责：
 - 后台管理系统微前端架构的探索、选型和开发
@@ -71,7 +71,7 @@ React / Typescript / Webpack / Rxjs / WebRTC
 抱石云SaaS系统的补充系统，主要用于C端用户的答题、提交、查看答案以及直播时的问答功能
 
 包含技术栈： 
-Angular / Typescript / Rxjs
+- Angular / Typescript / Rxjs
 
 在其中负责：
 - 项目选型、开发和后期维护
@@ -82,7 +82,7 @@ Angular / Typescript / Rxjs
 - 笔试答题系统负责答题考生的信息确认、身份认证、信息录入、考试答题的工作
 
 包含技术栈：
-Angular / TypeScript / Rxjs / WebSocket
+- Angular / TypeScript / Rxjs / WebSocket
 
 在其中负责：
 - 项目选型、开发和后期维护
@@ -93,7 +93,7 @@ Angular / TypeScript / Rxjs / WebSocket
 - 在线面试系统负责面试的候选人和面试官的确认参加、设备检查、进行在线面试、面试官进行评价等功能
 
 包含技术栈：
-Angular / TypeScript / Rxjs / WebRTC / WebSocket
+- Angular / TypeScript / Rxjs / WebRTC / WebSocket
 
 在其中负责：
 - 项目选型、开发和后期维护
@@ -104,7 +104,7 @@ Angular / TypeScript / Rxjs / WebRTC / WebSocket
 - 展示OJ结果和成绩
 
 包含技术栈：
-React / Websocket
+- React / Websocket
 
 在其中负责：
 - 项目选型、开发和后期维护
@@ -113,7 +113,7 @@ React / Websocket
 用友U8 B/S系统是U8的windows客户端系统的延伸，负责用户在网页上进行报销提交和审核，以及项目人员和财务管理的功能
 
 包含技术栈：
-JSP / JQuery / SqlServer
+- JSP / JQuery / SqlServer
 
 在其中负责：
 - 项目的开发和后期维护
