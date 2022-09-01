@@ -1,44 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 杨欣的简历
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# 杨欣
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="xy1041@aliyun.com">xy1041@aliyun.com</a>
+| <a href="https://xy1041.github.io/blog">我的博客</a>
 </div>
 
 
-## Currently
+## 当前职位
 
-Standing on the shoulders of giants
+高级前端开发工程师
 
-### Specialized in
+### 擅长
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️⭐️️️️️️ React
+- ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️ Angular
+- ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️ Typescript
+- ⭐️️️️️️⭐️️️⭐️️️️️️⭐️️️ Webpack
+- ⭐️️️️️️⭐️️️⭐️️️️️️ Rxjs
+- ⭐️️️️️️⭐️️️⭐️ Node.js
+- ⭐️️️️️️⭐️️⭐️️️️ WebRTC
+
+### 教育经历
 
 
-### Research interests
+`2009.09 - 2013.07`
+__西北工业大学 - 光信息科学与技术__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### 工作经历
 
+`2019.10 - 至今`
+__抱石科技有限责任公司 - 高级前端开发工程师__
 
-## Education
+`2017.10 - 2019.9`
+__猿圈科技有限责任公司 - 前端开发工程师__
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016.12 - 2017.10`
+__华夏物联有限责任公司 - 前端开发工程师__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2014.04 - 2016.12`
+__用友软件U8部门 - 软件开发工程师__
 
-- Sizar
+## 项目经历
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
