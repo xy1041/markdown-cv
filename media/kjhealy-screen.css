@@ -63,10 +63,10 @@ body {
 
 p {
 	position: relative;
-	left: 300px;
+	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 660px;
+	width: 65%;
 }
 
 code {
@@ -79,14 +79,14 @@ code {
 
 p code {
 	position: absolute;
-	left: -150px;
+	left: -14%;
 }
 
 
 ul { 
 	position: relative;
-	left: 300px;
-	width: 660px;
+	left: 33%;
+	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -115,7 +115,7 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 660px;
+	width: 65%;
 }
 
 h1 {
@@ -123,8 +123,9 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 300px;
+	left: 33%;
 }
+
 h1+p { 
 	/*subtitle*/
 	font-style: italic;
@@ -147,7 +148,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 120px;
+	width: 20%;
 }
 
 a {
@@ -162,7 +163,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 300px;
+	left: 33%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
@@ -185,10 +186,7 @@ strong {
 	display: none;
 }
 
-#main {
-	width: 960px;
-	margin: 0 auto;
-}
+
 
 /*
 @media only screen and (max-width: 480px) {
