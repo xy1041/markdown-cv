@@ -7,6 +7,8 @@ title: 杨欣的简历
 <div id="webaddress">
 <a href="mailto:xy1041@aliyun.com">邮箱：xy1041@aliyun.com</a>
 | <a href="https://xy1041.github.io/blog">博客：https://xy1041.github.io/blog</a>
+| <a href="#">电话：(+86)17600215916</a>
+| <a href="#">出生年月：1991/09</a>
 </div>
 
 
